@@ -1,4 +1,7 @@
-# api documentation for  trymodule (v1.4.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-trymodule.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trymodule) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trymodule.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trymodule)
+# npmdoc-trymodule
+
+#### basic api documentation for  trymodule (v1.4.0)  [![npm package](https://img.shields.io/npm/v/npmdoc-trymodule.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-trymodule) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-trymodule.svg)](https://travis-ci.org/npmdoc/node-npmdoc-trymodule)
+
 #### It's never been easier to try nodejs modules!
 
 [![NPM](https://nodei.co/npm/trymodule.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/trymodule)
